@@ -1,6 +1,6 @@
 # MongoDB Vagrant App
 
-## Application uses Vagrant and Ansible to create two virtual machine environements for NodeJS and MongoDB. 
+## Application uses Vagrant and Ansible to deploy Web Server Application and MongoDB NoSQL Database in provisioned Virtual Machine environments. 
 
 ## Pre-requisites for the Application
 - Vagrant
