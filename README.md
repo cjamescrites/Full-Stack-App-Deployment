@@ -1,4 +1,4 @@
-# MongoDB Vagrant App
+# Full Stack Application Deployment Project
 
 ## Application uses Vagrant and Ansible to deploy Web Server Application and MongoDB NoSQL Database in provisioned Virtual Machine environments. 
 
